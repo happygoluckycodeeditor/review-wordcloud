@@ -1,5 +1,7 @@
 # Creating Wordcloud on Japan using Python!
 
+EDIT: Added a better resolution image
+
 ⚠️For today's project we are going to make Wordcloud on some text data based on Japan using libraries from Python!
 
 What is wordcloud?
